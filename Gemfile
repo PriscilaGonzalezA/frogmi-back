@@ -5,6 +5,8 @@ ruby "3.1.2"
 
 gem 'httparty'
 
+gem 'rack-cors', '~> 2.0', '>= 2.0.1'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.8", ">= 7.0.8.1"
 
